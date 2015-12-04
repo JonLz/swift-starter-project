@@ -1,0 +1,6 @@
+framework module Pods_TCCountdown {
+  umbrella header "Pods-TCCountdown-umbrella.h"
+
+  export *
+  module * { export * }
+}
